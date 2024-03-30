@@ -1,3 +1,4 @@
+/*
 using UnityEngine;
 using UnityEngine.XR.Content.Interaction.Analytics;
 using UnityObject = UnityEngine.Object;
@@ -39,3 +40,4 @@ namespace UnityEditor.XR.Content.Interaction.Analytics
         }
     }
 }
+*/
